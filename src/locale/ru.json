@@ -1,0 +1,54 @@
+{
+  "top_bar_chart": "График",
+  "top_bar_sign_out": "Выйти",
+
+  "dialog_title": "Редактировать функции",
+  "dialog_save": "Сохранить",
+  "dialog_cancel": "Отменить",
+
+  "registration_title": "Регистрация",
+  "registration_name": "Полное имя",
+  "registration_login": "Логин",
+  "registration_password": "Пароль",
+  "registration_confirm_password": "Подтверждение пароля",
+  "registration_passwords_not_match": "Пароли не совпадают",
+  "registration_age": "Возраст",
+  "registration_exists": "Пользователь уже существует",
+  "registration_country": "Страна",
+  "registration_submit": "Зарегистрироваться",
+  "registration_sign_in": "Уже есть аккаунт? Войти",
+
+  "sign_in_title": "Вход",
+  "sign_in_submit": "Войти",
+  "sign_in_not_found": "Пользователь не найден или пароль не верен",
+  "sign_in_registration": "Ещё нет акканта? Зарегистрироваться",
+
+  "country_none": "Нет",
+  "country_russia": "Россия",
+  "country_ukraine": "Украина",
+  "country_china": "Китай",
+  "country_poland": "Польша",
+
+  "profile_title": "Профиль",
+  "profile_change_login": "Изменить логин",
+  "profile_change_password": "Изменить пароль",
+  "profile_current_password": "Текущий пароль",
+  "profile_new_password": "Новый пароль",
+  "profile_invalid_password": "Неверный пароль",
+  "profile_change": "Изменить",
+
+  "page_404_title": "404",
+  "page_404_content": "Страница, которую вы ищете, не найдена",
+
+  "admin_title": "Админка",
+  "admin_users": "Пользователи",
+  "admin_actions": "Действия",
+  "admin_add": "Добавить",
+  "admin_remove": "Удалить",
+
+  "error_empty": "Поле не может быть пустым",
+  "error_nonnumerical": "Введено нечисловое значение",
+  "error_too_big": "Введённое значение слишком большое",
+  "error_non_latin": "Нелатинские символы",
+  "error_too_short": "Недостаточная длина"
+}

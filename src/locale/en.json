@@ -1,0 +1,54 @@
+{
+  "top_bar_chart": "Chart",
+  "top_bar_sign_out": "Sign out",
+
+  "dialog_title": "Edit functions",
+  "dialog_save": "Save",
+  "dialog_cancel": "Cancel",
+
+  "registration_title": "Registration",
+  "registration_name": "Full name",
+  "registration_login": "Login",
+  "registration_password": "Password",
+  "registration_confirm_password": "Confirm password",
+  "registration_passwords_not_match": "Passwords do not match",
+  "registration_country": "Country",
+  "registration_age": "Age",
+  "registration_exists": "User already exists",
+  "registration_submit": "Register",
+  "registration_sign_in": "Already have an account? Sign in",
+
+  "sign_in_title": "Sign in",
+  "sign_in_submit": "Sign in",
+  "sign_in_not_found": "User not found or password is invalid",
+  "sign_in_registration": "Don't have an account? Register",
+
+  "country_none": "None",
+  "country_russia": "Russia",
+  "country_ukraine": "Ukraine",
+  "country_china": "China",
+  "country_poland": "Poland",
+
+  "profile_title": "Profile",
+  "profile_change_login": "Change login",
+  "profile_change_password": "Change password",
+  "profile_current_password": "Current password",
+  "profile_invalid_password": "Invalid password",
+  "profile_new_password": "New password",
+  "profile_change": "Change",
+
+  "page_404_title": "404",
+  "page_404_content": "The page you were looking for doesn't exist",
+
+  "admin_title": "Admin page",
+  "admin_users": "Users",
+  "admin_actions": "Actions",
+  "admin_add": "Add",
+  "admin_remove": "Remove",
+
+  "error_empty": "Value cannot be empty",
+  "error_nonnumerical": "Nonnumerical value",
+  "error_too_big": "Value is too big",
+  "error_non_latin": "Non-latin value",
+  "error_too_short": "Value is too short"
+}

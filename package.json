@@ -2,7 +2,11 @@
   "name": "whyyyyy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/data-grid": "^4.0.0-alpha.8",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,9 +14,19 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "caniuse-lite": "^1.0.30001239",
+    "chart.js": "^2.9.4",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "chartjs-plugin-zoom": "^0.7.7",
+    "list-react-files": "^0.2.0",
+    "lodash.omit": "^4.5.0",
+    "password-hash": "^1.2.2",
     "react": "^17.0.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-color": "^2.19.3",
     "react-dom": "^17.0.1",
-    "react-scripts": "3.4.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
     "typescript": "~3.7.2"
   },
   "scripts": {
@@ -35,5 +49,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@types/password-hash": "^1.2.20",
+    "@types/react-color": "^3.0.4",
+    "@types/react-router-dom": "^5.1.6",
+    "material-table": "^1.69.1"
   }
 }
